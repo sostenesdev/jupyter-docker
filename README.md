@@ -1,11 +1,11 @@
 ## Dockerfile para criação de ambiente jupyter notebook no docker
-Esse repositório contém o necessário para criação de um ambiente jupyter notebook utilizando docker
+Esse repositório contém o necessário para criação de um ambiente jupyter notebook utilizando docker.
 
 
 ### Clonando repositório
 
 ```git
-    git clone https://github.com/sostenesdev/jupyter-docker.git
+git clone https://github.com/sostenesdev/jupyter-docker.git
 ```
 
 ### Criando imagem docker
